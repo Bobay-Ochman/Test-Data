@@ -12,10 +12,10 @@ python runner_personal.py -t 4 /absolute/path/to/1_example_pre/
 
 All examples of output are available here:
 
-- [1\_dengue\_post.zip]() (17M)
-- [2\_enterovirusMix\_post.zip]() (7.5M)
-- [3\_bacteria\_post.zip]() (502M)
-- [4\_zika\_post.zip]() (148M)
+- [1\_dengue\_post.zip](https://s3.amazonaws.com/conspecifix-example/1_dengue_post.zip) (17M)
+- [2\_enterovirusMix\_post.zip](https://s3.amazonaws.com/conspecifix-example/2_enterovirusMix_post.zip) (7.5M)
+- [3\_bacteria\_post.zip](https://s3.amazonaws.com/conspecifix-example/3_bacteria_post.zip) (502M)
+- [4\_zika\_post.zip](https://s3.amazonaws.com/conspecifix-example/4_zika_post.zip) (148M)
 
 ## Examples
 
