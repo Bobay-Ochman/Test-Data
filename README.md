@@ -5,7 +5,7 @@ This repo is a collection of four example datasets for the "personal comparison"
 To run the ConSpeciFix pipeline for a folder of input genomes, follow the instructions in the ConSpeciFix [readme](https://github.com/Bobay-Ochman/ConSpeciFix/blob/master/README.md) for "Personal Comparison". The command to launch the process is:
 
 ```
-python runner_personal.py -t 4 /absolute/path/to/1_example_pre/
+python runner_personal.py /absolute/path/to/1_example_pre/
 ```
 
 ## Output Files
