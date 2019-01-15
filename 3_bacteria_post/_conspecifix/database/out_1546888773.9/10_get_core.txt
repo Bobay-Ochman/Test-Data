@@ -1,0 +1,1 @@
+User_spec  There are  2008  core genes and  113  doublons  2919.44444444  genes on average for 18  strains.  Ratio= 68.7802093245  %

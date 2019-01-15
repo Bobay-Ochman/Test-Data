@@ -1,0 +1,4 @@
+character(0)
+null device 
+          1 
+User_spec
