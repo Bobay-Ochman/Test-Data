@@ -1,7 +1,0 @@
-User_spec
-error with folder: /stor/work/Ochman/brian/examples/conExample3/_conspecifix/database/User_spec
-error with folder: /stor/work/Ochman/brian/examples/conExample3/_conspecifix/database/User_spec/genes
-make folder!/stor/work/Ochman/brian/examples/conExample3/_conspecifix/database/User_spec/genomes
-make folder!/stor/work/Ochman/brian/examples/conExample3/_conspecifix/database/User_spec/align
-make folder!/stor/work/Ochman/brian/examples/conExample3/_conspecifix/database/User_spec/BBH
-make folder!/stor/work/Ochman/brian/examples/conExample3/_conspecifix/database/User_spec/maps

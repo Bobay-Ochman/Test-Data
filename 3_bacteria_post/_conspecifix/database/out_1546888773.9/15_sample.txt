@@ -1,5 +1,0 @@
-no exclusion.txt in todo folder
-User_spec   18
-18  strains left
-OK
-OK

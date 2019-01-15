@@ -1,6 +1,0 @@
-Strain in the first column is removed for being too similar to the strain in the second column:
-none removed, all sufficiently distant.
-
-
-Removed for being too distant:
-none removed, all sufficiently similar.
